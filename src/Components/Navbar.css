@@ -1,0 +1,53 @@
+/* @media only screen and (max-width: 380px) {
+    /* Your CSS styles for screens ≤ 380px */
+    /* body {
+        background-color: lightgray;
+    }
+
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 18px;
+    } */
+/* }  */
+@media only screen and (max-width:420px) {
+        .Bookmark{
+            display: none;
+    }
+    .masterDiv{
+        padding: 10px 20px 4px 20px;
+        border-radius: 0 0 20px 20px;
+        position: relative;
+        height: auto;
+}
+.imgeDiv{
+    width: 100%;
+    display: grid;
+    /* position: relative; */
+    /* background-color: aqua; */
+}
+.imgTT{
+     width: 150px;
+    height: 60px; 
+    padding-left: 20px;
+}
+.Minutes{
+    padding: 0 0 0 0 ;
+    margin: 0 0 0 0;
+}
+.Profile-Cart{
+    position: absolute;
+    margin: 250px;
+    padding-bottom: 110px
+} 
+/* .SearchIcon{
+    background-color: aquamarine;   
+    position: absolute;
+    bottom: -25px;
+    width:336px ;
+} */
+} 
+
